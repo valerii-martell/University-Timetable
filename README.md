@@ -3,7 +3,7 @@
 Web service for displaying the schedule of classes at the National Technical University of Ukraine "Kyiv Polytechnic Institute". Before the beginning of each semester, the university prepares a schedule for all groups of students in a very large and inconvenient to read Excel file. The project is designed to provide students with the convenience of staying online exactly the schedule they need, indicating only the name of their group.
 
 The project consists of two subprojects:
-1. _**UniversalSchedule**_ - a web service for displaying a convenient schedule of student classes by the specified number of their group.
+1. _**UniversalTimetable**_ - a web service for displaying a convenient schedule of student classes by the specified number of their group.
 Implemented by using C#, .NET Framework, ASP.NET.
 
 **Main page:**
