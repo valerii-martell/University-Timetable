@@ -1,5 +1,7 @@
 # University-Timetable
 
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/9eb1e244b7174953aa7a68edda609c2a)](https://www.codacy.com/gh/valerii-martell/University-Timetable/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=valerii-martell/University-Timetable&amp;utm_campaign=Badge_Grade)
+
 Web service for displaying the schedule of classes at the National Technical University of Ukraine "Kyiv Polytechnic Institute". Before the beginning of each semester, the university prepares a schedule for all groups of students in a very large and inconvenient to read Excel file. The project is designed to provide students with the convenience of staying online exactly the schedule they need, indicating only the name of their group.
 
 The project consists of two subprojects:
