@@ -1,0 +1,7 @@
+engines:
+  duplication:
+    enabled: true
+exclude_paths:
+- "readme.md"
+- "**/Scropts/**"
+- "packages/**"
