@@ -3,5 +3,5 @@ engines:
     enabled: true
 exclude_paths:
 - "readme.md"
-- "**/Scropts/**"
+- "**/Scripts/**"
 - "packages/**"
