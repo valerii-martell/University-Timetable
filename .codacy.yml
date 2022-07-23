@@ -3,7 +3,7 @@ engines:
   duplication:
     enabled: true
 exclude_paths:
-- "readme.md"
+- "README.md"
 - "**/Scripts/**"
 - "**/excel/**"
 - "**/html/**"
