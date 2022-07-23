@@ -5,4 +5,6 @@ engines:
 exclude_paths:
 - "readme.md"
 - "**/Scripts/**"
+- "**/excel/**"
+- "**/html/**"
 - "packages/**"
