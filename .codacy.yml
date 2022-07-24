@@ -8,3 +8,4 @@ exclude_paths:
 - "**/excel/**"
 - "**/html/**"
 - "packages/**"
+- "**.css*
